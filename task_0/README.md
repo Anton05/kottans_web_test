@@ -1,1 +1,0 @@
-Finish learngitbranching and put the screenshots of the finished tasks lists in the task_0 folder and the links in the README.md file in the root of task_0 folder(you can read about markdown here: writing-on-github)
